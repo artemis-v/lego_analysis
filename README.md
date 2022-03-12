@@ -1,5 +1,5 @@
 ## logo_analysis
-#Aggregate and Merge Data in Pandas while Analyzing a Dataset of LEGO Pieces
+# Aggregate and Merge Data in Pandas while Analyzing a Dataset of LEGO Pieces
 
 I analyze a dataset about LEGO, which will help answering the following questions:
   1. What is the most enormous LEGO set ever created and how many parts did it have?
