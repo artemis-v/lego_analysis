@@ -1,4 +1,4 @@
-## logo_analysis
+## lego_analysis
 ## Aggregate and Merge Data in Pandas while Analyzing a Dataset of LEGO Pieces
 
 I analyze a dataset about LEGO, which will help answering the following questions:
